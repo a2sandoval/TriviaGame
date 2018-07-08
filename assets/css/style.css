@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+    padding:250px 0px 0px 0px;
+}
+
+.navbar-left {
+  padding:50px;
+}
+
+#time {
+    position:fixed;
+    color:red;
+}
