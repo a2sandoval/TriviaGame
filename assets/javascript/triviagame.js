@@ -128,7 +128,7 @@ var game = {
   	   block.html("<h2>You've completed the test. Below you will see your results.</h2>");
   	   block.append("<h3>Correct " + this.correct + "</h3>");
   	   block.append("<h3>Incorrect " + this.incorrect + "</h3>");
-  	   block.append("<h3>Unaswered " + (questions.length - (this.incorrect + this.correct)) + "</h3>");
+  	   block.append("<h3>Unanswered " + (questions.length - (this.incorrect + this.correct)) + "</h3>");
   	  
   	  }
 
